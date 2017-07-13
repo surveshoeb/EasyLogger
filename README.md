@@ -31,14 +31,14 @@ Add it in your root build.gradle at the end of repositories:
 
   #How to use:
   
-  TO Log Debug
+  To log Debug
   
   log.d("Message");
   
-  TO Log Error
+  To log Error
   
   log.e("Message");
   
-  TO Log Debug and Save in file
+  To log and save in file
   
   log.d("Message",true);
